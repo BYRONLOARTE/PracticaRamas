@@ -10,7 +10,7 @@
 </head>
 <body>
 	<h1>Hola amigos</h1>
-	<h1>Coders</h1>
+	<h2>Coders 😊</h2>
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 </body>
 </html>
